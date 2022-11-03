@@ -8,7 +8,7 @@ This section is dedicated for preliminary testing of the different functionaliti
 * `.\Scripts\activate`
 * `python.exe -m pip install --upgrade pip`
 * `python -m pip install -r requirements.txt`
-* `python {FILENAME}.py`, replace the FILENAME with the name of the file you want to run
+* `python {FILENAME}.py`, replace FILENAME respectively
 
 |Filename|Task|Package|
 |----|-----|-------|
