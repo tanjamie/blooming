@@ -1,0 +1,234 @@
+{
+  "total": {
+    "value": 1,
+    "relation": "eq"
+  },
+  "query": {
+    "from": 0,
+    "size": 10
+  },
+  "filings": [
+    {
+      "id": "026c7119c42c8967445a5b4e7ac47635",
+      "accessionNo": "0000100517-20-000010",
+      "cik": "100517",
+      "ticker": "UAL",
+      "companyName": "United Airlines Holdings, Inc.",
+      "companyNameLong": "United Airlines Holdings, Inc. (Filer)",
+      "formType": "10-K",
+      "description": "Form 10-K - Annual report [Section 13 and 15(d), not S-K Item 405]",
+      "filedAt": "2020-02-24T21:53:59-05:00",
+      "linkToTxt": "https://www.sec.gov/Archives/edgar/data/100517/000010051720000010/0000100517-20-000010.txt",
+      "linkToHtml": "https://www.sec.gov/Archives/edgar/data/100517/0000100517-20-000010-index.htm",
+      "linkToXbrl": "",
+      "linkToFilingDetails": "https://www.sec.gov/ix?doc=/Archives/edgar/data/100517/000010051720000010/ual201910k.htm",
+      "entities": [
+        {
+          "companyName": "United Airlines Holdings, Inc. (Filer)",
+          "cik": "100517",
+          "irsNo": "362675207",
+          "stateOfIncorporation": "DE",
+          "fiscalYearEnd": "1231",
+          "type": "10-K",
+          "act": "34",
+          "fileNo": "001-06033",
+          "filmNo": "20647075",
+          "sic": "4512 Air Transportation, Scheduled"
+        },
+        {
+          "companyName": "UNITED AIRLINES, INC. (Filer)",
+          "cik": "319687",
+          "irsNo": "742099724",
+          "stateOfIncorporation": "DE",
+          "fiscalYearEnd": "1231",
+          "type": "10-K",
+          "act": "34",
+          "fileNo": "001-10323",
+          "filmNo": "20647076",
+          "sic": "4512 Air Transportation, Scheduled"
+        }
+      ],
+      "documentFormatFiles": [
+        {
+          "sequence": "1",
+          "description": "10-K",
+          "documentUrl": "https://www.sec.gov/ix?doc=/Archives/edgar/data/100517/000010051720000010/ual201910k.htm",
+          "type": "10-K",
+          "size": "4594169"
+        },
+        {
+          "sequence": "2",
+          "description": "EXHIBIT 4.14",
+          "documentUrl": "https://www.sec.gov/Archives/edgar/data/100517/000010051720000010/ual12311910kex414.htm",
+          "type": "EX-4.14",
+          "size": "19101"
+        },
+        {
+          "sequence": "3",
+          "description": "EXHIBIT 10.2",
+          "documentUrl": "https://www.sec.gov/Archives/edgar/data/100517/000010051720000010/ual12311910kex102.htm",
+          "type": "EX-10.2",
+          "size": "121843"
+        },
+        {
+          "sequence": "4",
+          "description": "EXHIBIT 10.11",
+          "documentUrl": "https://www.sec.gov/Archives/edgar/data/100517/000010051720000010/ual12311910kex1011.htm",
+          "type": "EX-10.11",
+          "size": "6243"
+        },
+        {
+          "sequence": "5",
+          "description": "EXHIBIT 10.35",
+          "documentUrl": "https://www.sec.gov/Archives/edgar/data/100517/000010051720000010/ual12311910kex1035.htm",
+          "type": "EX-10.35",
+          "size": "31353"
+        },
+        {
+          "sequence": "6",
+          "description": "EXHIBIT 10.36",
+          "documentUrl": "https://www.sec.gov/Archives/edgar/data/100517/000010051720000010/ual12311910kex1036.htm",
+          "type": "EX-10.36",
+          "size": "9704"
+        },
+        {
+          "sequence": "7",
+          "description": "EXHIBIT 10.42",
+          "documentUrl": "https://www.sec.gov/Archives/edgar/data/100517/000010051720000010/ual12311910kex1042.htm",
+          "type": "EX-10.42",
+          "size": "162631"
+        },
+        {
+          "sequence": "8",
+          "description": "EXHIBIT 21",
+          "documentUrl": "https://www.sec.gov/Archives/edgar/data/100517/000010051720000010/ual12311910kex21.htm",
+          "type": "EX-21",
+          "size": "40287"
+        },
+        {
+          "sequence": "9",
+          "description": "EXHIBIT 23.1",
+          "documentUrl": "https://www.sec.gov/Archives/edgar/data/100517/000010051720000010/ual12311910kex231.htm",
+          "type": "EX-23.1",
+          "size": "6857"
+        },
+        {
+          "sequence": "10",
+          "description": "EXHIBIT 23.2",
+          "documentUrl": "https://www.sec.gov/Archives/edgar/data/100517/000010051720000010/ual12311910kex232.htm",
+          "type": "EX-23.2",
+          "size": "3072"
+        },
+        {
+          "sequence": "11",
+          "description": "EXHIBIT 31.1",
+          "documentUrl": "https://www.sec.gov/Archives/edgar/data/100517/000010051720000010/ual12311910kex311.htm",
+          "type": "EX-31.1",
+          "size": "12313"
+        },
+        {
+          "sequence": "12",
+          "description": "EXHIBIT 31.2",
+          "documentUrl": "https://www.sec.gov/Archives/edgar/data/100517/000010051720000010/ual12311910kex312.htm",
+          "type": "EX-31.2",
+          "size": "12355"
+        },
+        {
+          "sequence": "13",
+          "description": "EXHIBIT 31.3",
+          "documentUrl": "https://www.sec.gov/Archives/edgar/data/100517/000010051720000010/ual12311910kex313.htm",
+          "type": "EX-31.3",
+          "size": "12434"
+        },
+        {
+          "sequence": "14",
+          "description": "EXHIBIT 31.4",
+          "documentUrl": "https://www.sec.gov/Archives/edgar/data/100517/000010051720000010/ual12311910kex314.htm",
+          "type": "EX-31.4",
+          "size": "12476"
+        },
+        {
+          "sequence": "15",
+          "description": "EXHIBIT 32.1",
+          "documentUrl": "https://www.sec.gov/Archives/edgar/data/100517/000010051720000010/ual12311910kex321.htm",
+          "type": "EX-32.1",
+          "size": "6262"
+        },
+        {
+          "sequence": "16",
+          "description": "EXHIBIT 32.2",
+          "documentUrl": "https://www.sec.gov/Archives/edgar/data/100517/000010051720000010/ual12311910kex322.htm",
+          "type": "EX-32.2",
+          "size": "6381"
+        },
+        {
+          "sequence": "22",
+          "description": "GRAPHIC",
+          "documentUrl": "https://www.sec.gov/Archives/edgar/data/100517/000010051720000010/a2019performancev2.jpg",
+          "type": "GRAPHIC",
+          "size": "46466"
+        },
+        {
+          "sequence": "23",
+          "description": "GRAPHIC",
+          "documentUrl": "https://www.sec.gov/Archives/edgar/data/100517/000010051720000010/unitedcoverlogoa01.jpg",
+          "type": "GRAPHIC",
+          "size": "22687"
+        },
+        {
+          "sequence": "\u00a0",
+          "description": "Complete submission text file",
+          "documentUrl": "https://www.sec.gov/Archives/edgar/data/100517/000010051720000010/0000100517-20-000010.txt",
+          "type": "\u00a0",
+          "size": "20779741"
+        }
+      ],
+      "dataFiles": [
+        {
+          "sequence": "17",
+          "description": "XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT",
+          "documentUrl": "https://www.sec.gov/Archives/edgar/data/100517/000010051720000010/ual-20191231.xsd",
+          "type": "EX-101.SCH",
+          "size": "100581"
+        },
+        {
+          "sequence": "18",
+          "description": "XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT",
+          "documentUrl": "https://www.sec.gov/Archives/edgar/data/100517/000010051720000010/ual-20191231_cal.xml",
+          "type": "EX-101.CAL",
+          "size": "163878"
+        },
+        {
+          "sequence": "19",
+          "description": "XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT",
+          "documentUrl": "https://www.sec.gov/Archives/edgar/data/100517/000010051720000010/ual-20191231_def.xml",
+          "type": "EX-101.DEF",
+          "size": "672857"
+        },
+        {
+          "sequence": "20",
+          "description": "XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT",
+          "documentUrl": "https://www.sec.gov/Archives/edgar/data/100517/000010051720000010/ual-20191231_lab.xml",
+          "type": "EX-101.LAB",
+          "size": "1328546"
+        },
+        {
+          "sequence": "21",
+          "description": "XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT",
+          "documentUrl": "https://www.sec.gov/Archives/edgar/data/100517/000010051720000010/ual-20191231_pre.xml",
+          "type": "EX-101.PRE",
+          "size": "841155"
+        },
+        {
+          "sequence": "29",
+          "description": "EXTRACTED XBRL INSTANCE DOCUMENT",
+          "documentUrl": "https://www.sec.gov/Archives/edgar/data/100517/000010051720000010/ual201910k_htm.xml",
+          "type": "XML",
+          "size": "4726661"
+        }
+      ],
+      "seriesAndClassesContractsInformation": [],
+      "periodOfReport": "2019-12-31"
+    }
+  ]
+}
