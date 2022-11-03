@@ -1,4 +1,6 @@
-# testing
+# testing :ghost:
+
+> Testing leads to failure. And failure leads to understanding.
 
 This section is dedicated for preliminary testing of the different functionalities that are planned for this project. Note that files here are designed for execution from this folder only. The specific test subjects are as listed and explained in the table below. To run the code files, run the following code in your cmd:
 * `cd` into the testing folder
