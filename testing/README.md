@@ -13,4 +13,4 @@ This section is dedicated for preliminary testing of the different functionaliti
 |Filename|Task|Package|
 |----|-----|-------|
 |snp500.py|Obtain list of S&P500 components|os, bs4, requests, pandas|
-|tenk.py|Scrape 10-K forms for specified companies|os, json requests sec_api|
+|tenk.py|Scrape 10-K forms for specified companies|os, json, requests, sec_api|
